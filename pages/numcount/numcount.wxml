@@ -1,0 +1,2 @@
+
+<button bindtap="changeName"> Click me! </button>
